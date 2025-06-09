@@ -1,12 +1,24 @@
 ### Structure
 
-|**_MFE-Red-Records
-|_**bootstrap
-| |**_ …
-|_**music
-| |**_ …
-|_**welcome
-|\_\_\_ …
+```
+MFE-Red-Records
+│   server.js
+│
+└───bootstrap
+│   
+└───music
+    │   
+    └───src
+    │   
+    └───build
+│   
+└───welcome
+    │   
+    └───src
+    │   
+    └───dist
+```
+
 
 #### 1. Bootstrap
 
